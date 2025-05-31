@@ -92,7 +92,7 @@ Edit
 1. **Clone the repository:**
 
 bash
-git clone https://github.com/Rishikiran98/Hybrid-Expert-Chatbot.git
+git clone https://github.com/saikiranbheemagani.git
 cd Hybrid-Expert-Chatbot
 Install the dependencies:
 
